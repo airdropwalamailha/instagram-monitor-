@@ -21,9 +21,9 @@ NEW_POST_MINUTES = 10
 
 # Monitor karne wale accounts (apne add karo)
 TARGET_ACCOUNTS = [
-    "username1",
-    "username2",
-    "username3",
+    "rf_short_tv",
+    "shabnamlayek2003",
+    "noorkhan_shorts",
     # ... baaki accounts yahan add karo
 ]
 
